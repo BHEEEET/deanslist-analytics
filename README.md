@@ -1,5 +1,5 @@
 # DeanslistAnalytics
-It's in angular version 16.2, because of study purposes for my university.
+It's in `angular v16.2`, because of study purposes for my university.
 
 ## Install Angular CLI
 
@@ -9,4 +9,9 @@ It's in angular version 16.2, because of study purposes for my university.
 
 `ng new my-angular-app`
 
-Drerrie
+## Create component
+
+`ng g c component-name`
+
+## Create service
+`ng g s service-name`
