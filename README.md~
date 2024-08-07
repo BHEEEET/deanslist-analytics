@@ -15,11 +15,3 @@ It's in `angular v16.2`, because of study purposes for my university.
 
 ## Create service
 `ng g s service-name`
-
-## Build webpage so you can access it locally
-This binds to all network interfaces:
-`ng serve --host 0.0.0.0` 
-
-More specific interface:
-`ng serve --host 192.168.0.10`
-
